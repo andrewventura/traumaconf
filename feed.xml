@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community in Unity | Building Resilience to Trauma</title>
+    <description>Strategies is hosting a convening to discuss practices for bulding resilience to adverse childhood experiences and trauma.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 23 Feb 2016 13:28:09 -0800</pubDate>
+    <lastBuildDate>Tue, 23 Feb 2016 13:28:09 -0800</lastBuildDate>
+    <generator>Jekyll v3.0.3</generator>
+    
+      <item>
+        <title>News Post</title>
+        <description>&lt;p&gt;There’s something new to talk about. If you consider this new thing when you’re addressing the relevant topic, you’ll probably do better than you did before. In fact, new research shows that when people who do things do those things with this thing, their results could potentially be different, but they could also be the same.&lt;/p&gt;
+
+&lt;p&gt;Wow! What an amazing new development in the field that you, the reader, and I, the author, share!&lt;/p&gt;
+
+&lt;p&gt;Please share this article so as to maximize our brand exposure and to help us capitalize on the buzz around our shared topic.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/news/2016/02/New-Thing/</link>
+        <guid isPermaLink="true">http://localhost:4000/news/2016/02/New-Thing/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>First Post!</title>
+        <description>&lt;p&gt;This is text.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.google.com/&quot; title=&quot;Google&quot;&gt;A link&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 26 Jan 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/news/2016/01/First-Post/</link>
+        <guid isPermaLink="true">http://localhost:4000/news/2016/01/First-Post/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
